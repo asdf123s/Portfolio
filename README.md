@@ -4,10 +4,10 @@
 
 # 목록
 [JSP] 한그릇
-[JSP] MeetArt
-[Java] ATM 시스템 
-  - https://github.com/asdf123s/ATM_JavaProject
-[Oracle] 교육 센터 관리 시스템
-  - https://github.com/asdf123s/Oracle_Project
+[JSP] MeetArt 
+- https://github.com/asdf123s/ATM_JavaProject
+  - [Java] ATM 시스템 
+https://github.com/asdf123s/Oracle_Project
+  - [Oracle] 교육 센터 관리 시스템
 [Servlet] 뉴핏
 [Spring] WalkPet
