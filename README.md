@@ -2,6 +2,8 @@
 이한솔의 포트폴리오입니다.
 모든 코드는 링크로 걸어두겠습니다.
 
+노션 포트폴리오 : https://ivory-carbon-811.notion.site/4d5ec8d74a414de4b6c0e871ab54a4e0
+
 # 목록
 [JSP] 한그릇
 [JSP] MeetArt 
