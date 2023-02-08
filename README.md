@@ -10,4 +10,5 @@
 - https://github.com/asdf123s/Oracle_Project
   - [Oracle] 교육 센터 관리 시스템
 [Servlet] 뉴핏
-[Spring] WalkPet
+- https://github.com/asdf123s/WalkPet_SpringProject
+  - [Spring] WalkPet
