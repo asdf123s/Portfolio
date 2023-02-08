@@ -5,12 +5,11 @@
 노션 포트폴리오 : https://ivory-carbon-811.notion.site/4d5ec8d74a414de4b6c0e871ab54a4e0
 
 # 목록
-[JSP] 한그릇
-[JSP] MeetArt 
 - https://github.com/asdf123s/ATM_JavaProject
   - [Java] ATM 시스템 
 - https://github.com/asdf123s/Oracle_Project
   - [Oracle] 교육 센터 관리 시스템
-[Servlet] 뉴핏
+- https://github.com/asdf123s/NP_ServletProject
+  - [Servlet] 뉴핏
 - https://github.com/asdf123s/WalkPet_SpringProject
   - [Spring] WalkPet
